@@ -45,7 +45,7 @@ public class MainApp {
         }
 
         System.out.println("Test method. The user with car1:");
-        System.out.println(userService.getUserByCar(car1.getModel(), car1.getSeries()));
+        System.out.println(userService.getUserByCar(car1.getModel(), car1.getSeries()).getFirstName());
 
         context.close();
     }
