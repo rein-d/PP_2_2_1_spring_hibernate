@@ -50,6 +50,11 @@
     "spring.configuration.checksum": "973519049f1dda9dcc3abb7a7e786282"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\supru\IdeaProjects\PP_2_2_1_spring_hibernate" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hiber.MainApp" />
